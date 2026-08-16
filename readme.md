@@ -651,4 +651,4 @@ Microsoft Azure tends to provide tightly integrated security services within the
 
 From a DevSecOps perspective, all three platforms support automation, policy-as-code, continuous monitoring, identity-based access control, security assessment, and automated incident response.
 
-As cloud security developer, understand the **security capability** that each service provides. Once the underlying security requirement is understood, equivalent services can be identified and implemented across different cloud platforms.
+As cloud security developer, investigate the details of security requirement, and understand the **security capability** that each service provides, equivalent services can be identified and implemented across different cloud platforms.
